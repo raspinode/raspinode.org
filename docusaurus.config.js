@@ -9,7 +9,7 @@ const config = {
   title: 'RaspiNode',
   // tagline: 'Best logo around',
   url: 'https://raspinode.org',
-  baseUrl: '/',
+  baseUrl: '/raspinode.org/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/raspinodelogo.png',
