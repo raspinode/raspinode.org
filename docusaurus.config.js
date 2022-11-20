@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/raspinodelogo.png',
+  favicon: 'img/raspinode-logo.png',
   trailingSlash: false,
 
   // GitHub pages deployment config.
@@ -61,7 +61,7 @@ const config = {
         title: 'RaspiNode',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/raspinodelogo.png',
+          src: 'img/raspinode-logo.png',
         },
         items: [
           {
